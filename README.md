@@ -8,3 +8,10 @@ Most of the examples follow this Go Guide [quii/learn-go-with-tests](https://git
 
 - Guide: [Learn Go with Tests](https://github.com/quii/learn-go-with-tests).
 - Editor: [GoLand](https://www.jetbrains.com/go/)
+
+### Useful Commands
+
+- Run Tests: `go test`
+- Run Tests w/ Code Coverage: `go test -cover`
+- Run Tests w/ Benchmarks: `go test -bench=.`
+- Start GoDoc Server on localhost:6060: `godoc -http=:6060`
